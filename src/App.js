@@ -1,7 +1,10 @@
+import './app.css'
+import Router from "./component/Router";
+
 function App() {
   return (
-    <div>
-      hello world
+    <div className='main-bg'>
+      <Router />
     </div>
   );
 }

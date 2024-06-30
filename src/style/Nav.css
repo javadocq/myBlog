@@ -1,0 +1,30 @@
+.item-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    margin-left: 20px;
+}
+
+.tag-line {
+    border : 1px solid black;
+    width: 80%;
+}
+
+.item {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    margin-left: 50px;
+}
+
+.item > a {
+    border : none;
+    background:none;
+    font-weight: bold;
+    width: 200px;
+    font-size: 20px;
+    color : lightblue;
+    text-decoration: none;
+}

@@ -1,0 +1,61 @@
+.item-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    margin-left: 20px;
+}
+
+.tag-line {
+    border : 1px solid black;
+    width: 80%;
+}
+
+.item {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    margin-left: 50px;
+}
+
+.item a {
+    border : none;
+    background:none;
+    font-weight: bold;
+    width: 200px;
+    font-size: 20px;
+    color : lightblue;
+}
+
+.date-name {
+    margin-top : 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.date {
+    font-size: 50px;
+    font-style: italic;
+}
+
+.name {
+    margin-top : 50px;
+    font-size : 50px;
+    font-style: italic;
+}
+
+.addr {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.addr a {
+    text-decoration: none;
+    color : lightblue;
+}

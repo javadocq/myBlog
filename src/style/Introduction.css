@@ -1,0 +1,87 @@
+.Outskirts {
+    color : black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.layout {
+    height: 600px;
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    display: inline-flex;
+    overflow: auto;
+    gap : 40px;
+    
+}
+.Title {
+    font-size: 50px;
+    font-weight: bold;
+    margin-left : 5px;
+    margin-top : 40px;
+}
+
+.line {
+    border: 1px solid rgb(122, 58, 58);
+    width: 490px;
+    margin-top : 50px;
+}
+
+.subTitle {
+    margin-top : 50px;
+    font-size: 22px;
+    font-weight: 200px;
+    display: flex;
+    margin-left: 10px;
+    width: 490px;
+}
+
+.content {
+    font-size: 13px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.box {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    display: flex;
+    text-align: center;
+    background-color: rgb(215, 207, 195);
+}
+
+.box-top {
+    position: absolute;
+    height: 30%;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.box-middle {
+    position: absolute;
+    top:40%;
+}
+
+.first-line {
+    width: 600px;
+    gap : 100px;
+    display: flex;
+}
+
+.second-line {
+    gap : 100px;
+    display: flex;
+    margin-top : 50px;
+    width: 600px;
+}
+
+.arrow {
+    height: 20px;
+    width: 20px;
+    margin-top: 75px;
+}
+.middlearrow {
+    margin-left : 440px;
+    margin-top : 30px;
+}

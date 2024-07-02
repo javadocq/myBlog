@@ -1,0 +1,36 @@
+.wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.travel-outline {
+    display: flex;
+    height: 180px;
+    width: 700px;
+    border: 1px solid black;
+    
+}
+.src {
+    height: 180px;
+    width: 210px;
+}
+.content {
+    margin-left : 60px;
+    display: flex;
+    flex-direction: column; 
+}
+
+button {
+    width: 60px;
+    margin-left : 350px;
+    margin-top : 5px;
+    background-color:white;
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: blanchedalmond;
+}

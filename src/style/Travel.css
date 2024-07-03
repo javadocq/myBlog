@@ -15,7 +15,11 @@
 }
 .src {
     height: 180px;
-    width: 210px;
+    width: 220px;
+}
+.src-cruse {
+    height: 180px;
+    width: 220px;
 }
 .content {
     margin-left : 60px;

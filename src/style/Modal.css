@@ -1,0 +1,32 @@
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 800px;
+    height: 500px;
+    max-width: 100%;
+    max-height: 90%;
+    overflow: auto;
+    background-color: white; 
+    display: flex;
+}
+
+.image {
+    height: 470px;
+    width: 400px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.content {
+    width: 300px;
+    display: inline-flex;
+    flex-direction: column;
+}
+.close {
+    position: absolute;
+    bottom : 10%;
+    right : 5%;
+}
+

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/javadocq/myBlog.git/static/css/main.85e1a60e.css",
+    "main.js": "/javadocq/myBlog.git/static/js/main.72404d55.js",
+    "static/media/travel-busan.jpeg": "/javadocq/myBlog.git/static/media/travel-busan.07ce1b9db2197e9371bb.jpeg",
+    "static/media/travel-cruse.jpeg": "/javadocq/myBlog.git/static/media/travel-cruse.043f9cab222e181424a6.jpeg",
+    "static/media/travel-ocean.jpeg": "/javadocq/myBlog.git/static/media/travel-ocean.d3608e67c19ea01faef0.jpeg",
+    "static/media/waterfall.jpg": "/javadocq/myBlog.git/static/media/waterfall.ca2bfa4912b69ae96052.jpg",
+    "static/media/JAVA.png": "/javadocq/myBlog.git/static/media/JAVA.f4ea765878d6e68edefd.png",
+    "static/media/Certificate.png": "/javadocq/myBlog.git/static/media/Certificate.30cb410df9054124b778.png",
+    "static/media/C++.png": "/javadocq/myBlog.git/static/media/C++.24a8f93854ab092f17a7.png",
+    "static/media/REACT.png": "/javadocq/myBlog.git/static/media/REACT.2192635226e7fb3d94ff.png",
+    "index.html": "/javadocq/myBlog.git/index.html",
+    "main.85e1a60e.css.map": "/javadocq/myBlog.git/static/css/main.85e1a60e.css.map",
+    "main.72404d55.js.map": "/javadocq/myBlog.git/static/js/main.72404d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e1a60e.css",
+    "static/js/main.72404d55.js"
+  ]
+}

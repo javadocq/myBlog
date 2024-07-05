@@ -7,7 +7,7 @@ import Travel from './Travel'
 
 const Router = () => {
     return (
-      <BrowserRouter basename={process.env.REACT_APP_BASENAME}>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Routes>
             <Route path="/" element={<Homepage />} />
             <Route path="/fashion" element={<Fashion />} />

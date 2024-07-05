@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/javadocq/myBlog.git/static/css/main.85e1a60e.css",
-    "main.js": "/javadocq/myBlog.git/static/js/main.92343c30.js",
+    "main.js": "/javadocq/myBlog.git/static/js/main.d499492e.js",
     "static/media/travel-busan.jpeg": "/javadocq/myBlog.git/static/media/travel-busan.07ce1b9db2197e9371bb.jpeg",
     "static/media/travel-cruse.jpeg": "/javadocq/myBlog.git/static/media/travel-cruse.043f9cab222e181424a6.jpeg",
     "static/media/travel-ocean.jpeg": "/javadocq/myBlog.git/static/media/travel-ocean.d3608e67c19ea01faef0.jpeg",
@@ -12,10 +12,10 @@
     "static/media/REACT.png": "/javadocq/myBlog.git/static/media/REACT.2192635226e7fb3d94ff.png",
     "index.html": "/javadocq/myBlog.git/index.html",
     "main.85e1a60e.css.map": "/javadocq/myBlog.git/static/css/main.85e1a60e.css.map",
-    "main.92343c30.js.map": "/javadocq/myBlog.git/static/js/main.92343c30.js.map"
+    "main.d499492e.js.map": "/javadocq/myBlog.git/static/js/main.d499492e.js.map"
   },
   "entrypoints": [
     "static/css/main.85e1a60e.css",
-    "static/js/main.92343c30.js"
+    "static/js/main.d499492e.js"
   ]
 }

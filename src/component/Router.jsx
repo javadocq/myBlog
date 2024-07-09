@@ -1,5 +1,4 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Fashion from './Fashion'
 import Homepage from './Homepage'
 import Introduction from './Introduction'
 import Study from './Study'

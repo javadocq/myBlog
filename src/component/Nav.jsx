@@ -7,7 +7,6 @@ export default function Nav() {
             <div className="tag-line"></div>
             <div className="item">
                 <Link to="/">Homepage</Link>
-                <Link to="/fashion">Fashion</Link>
                 <Link to="/travel">Travel</Link>
                 <Link to="/study">Study</Link>
                 <Link to="/introduction">Introduction</Link>
